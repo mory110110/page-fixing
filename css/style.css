@@ -31,7 +31,9 @@ nav ul {
   list-style: none;
   padding: 1em;
   display: flex;
+  align-items: center;
   justify-content: space-between;
+  flex-direction: row;
   margin-top: 0;
 }
 nav a:link, nav a:visited {
